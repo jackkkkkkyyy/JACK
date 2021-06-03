@@ -1,2 +1,1 @@
-# Jack-Bot
-Bot Whatsapp 
+Tetap lah bernafas walau tidak berguna
